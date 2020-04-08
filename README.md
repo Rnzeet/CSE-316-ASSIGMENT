@@ -26,6 +26,22 @@ Process
 Arrival-Time
 Burst-Time
 ----------
+P1
+0
+5
+---
+P2
+1
+3
+---
+P3
+2
+3
+---
+P4
+4
+1
+---
 
 
 
