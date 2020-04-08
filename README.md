@@ -23,27 +23,27 @@ Design a scheduler with multilevel queue having two queues which will schedule t
 
 
 
-Process  Arrival-Time   Burst-Time
+Process            Arrival-Time            Burst-Time
 
 
 
 -------------------------------------
 
 
-
-P1             0      	       5
-
-
-
-P2             1               3
+   
+P1                     0      	             5
+ 
 
 
-
-P3             2               3
+P2                     1                     3
 
 
 
-P4             4               1
+P3                     2                     3
+
+
+
+P4                     4                     1
 
 
 
