@@ -27,9 +27,10 @@ Arrival-Time
 Burst-Time
 ----------
 P1
+
 0
+
 5
----
 P2
 1
 3
