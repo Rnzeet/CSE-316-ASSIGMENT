@@ -23,7 +23,6 @@ Design a scheduler with multilevel queue having two queues which will schedule t
 
 
 Process
-
 Arrival-Time
 Burst-Time
 ----------
